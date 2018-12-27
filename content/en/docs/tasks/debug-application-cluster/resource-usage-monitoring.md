@@ -99,12 +99,17 @@ With the [Kubernetes Job Monitor](https://github.com/pietervogelaar/kubernetes-j
 
 ### New Relic Kubernetes monitoring integration
 
-[New Relic Kubernetes](https://docs.newrelic.com/docs/integrations/host-integrations/host-integrations-list/kubernetes-monitoring-integration) integration provides increased visibility into the performance of your Kubernetes environment. New Relic's Kubernetes integration instruments the container orchestration layer by reporting metrics from Kubernetes objects. The integration gives you insight into your Kubernetes nodes, namespaces, deployments, replica sets, pods, and containers.
-
 Marquee capabilities:
 View your data in pre-built dashboards for immediate insight into your Kubernetes environment.
 Create your own custom queries and charts in Insights from automatically reported data.
 Create alert conditions on Kubernetes data.
 Learn more on this [page](https://docs.newrelic.com/docs/integrations/host-integrations/host-integrations-list/kubernetes-monitoring-integration).
+
+## SaaS Monitoring Vendors
+
+[Datadog](https://docs.datadoghq.com/integrations/kubernetes/) offers integrations to help you monitor the health of your Kubernetes cluster and the applications running on it. 
+
+[New Relic](https://docs.newrelic.com/docs/integrations/host-integrations/host-integrations-list/kubernetes-monitoring-integration)'s Kubernetes integration provides increased visibility into the performance of your Kubernetes environment. New Relic's Kubernetes integration instruments the container orchestration layer by reporting metrics from Kubernetes objects. The integration gives you insight into your Kubernetes nodes, namespaces, deployments, replica sets, pods, and containers.
+
 
 {{% /capture %}}
